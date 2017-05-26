@@ -1,5 +1,5 @@
-# team-f-jm (Juhi and Maria's new repo)
+# team-f-jm (Juhi and Maria's repo)
 
-Juhi Pathak jp48969 juhipathak7
+Juhi Pathak juhipathak7
 
-Maria Velez mav2896 nonavelez
+Maria Velez nonavelez
