@@ -1,0 +1,20 @@
+select * from
+millionsongs.artist_term order by random() limit 10;
+
+select * from
+millionsongs.artists order by random() limit 10;
+
+select * from
+millionsongs.lyrics order by random() limit 10;
+
+select * from
+millionsongs.songs_popularity order by random() limit 10;
+
+select * from
+millionsongs.songs_summary order by random() limit 10;
+
+select * from
+millionsongs.tracks order by random() limit 10;
+
+select * from
+millionsongs.words order by random() limit 10;

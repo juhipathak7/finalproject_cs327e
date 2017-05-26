@@ -1,0 +1,53 @@
+select * from
+musicbrainz.area order by random() limit 10;
+
+select * from
+musicbrainz.artist_alias order by random() limit 10;
+
+select * from
+musicbrainz.artist_credit_name order by random() limit 10;
+
+select * from
+musicbrainz.artist_credit order by random() limit 10;
+
+select * from
+musicbrainz.artist_type order by random() limit 10;
+
+select * from
+musicbrainz.artist order by random() limit 10;
+
+select * from
+musicbrainz.event_type order by random() limit 10;
+
+select * from
+musicbrainz.event order by random() limit 10;
+
+select * from
+musicbrainz.gender order by random() limit 10;
+
+select * from
+musicbrainz.instrument_alias order by random() limit 10;
+
+select * from
+musicbrainz.instrument order by random() limit 10;
+
+select * from
+musicbrainz.label order by random() limit 10;
+
+select * from
+musicbrainz.medium_format order by random() limit 10;
+
+select * from
+musicbrainz.medium order by random() limit 10;
+
+select * from
+musicbrainz.recording order by random() limit 10;
+
+select * from
+musicbrainz.release_label order by random() limit 10;
+
+select * from
+musicbrainz.release order by random() limit 10;
+
+select * from
+musicbrainz.track order by random() limit 10;
