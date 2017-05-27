@@ -1,5 +1,5 @@
 # Datawarehouse created by:
 
-Juhi Pathak juhipathak7
+Juhi Pathak github.com/juhipathak7
 
-Maria Velez nonavelez
+Maria Velez github.com/nonavelez
