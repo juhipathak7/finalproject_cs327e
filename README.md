@@ -1,4 +1,4 @@
-# team-f-jm (Juhi and Maria's repo)
+# Datawarehouse created by:
 
 Juhi Pathak juhipathak7
 
